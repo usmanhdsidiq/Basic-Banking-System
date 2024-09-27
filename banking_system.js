@@ -18,6 +18,7 @@ function deposit() {
                 window.alert("Berhasil menambahkan saldo");
             }, 1500);
         } else {
+            window.alert("Nominal tidak valid");
             console.error("Nominal tidak valid");
         }
     } catch (error) {
@@ -41,6 +42,7 @@ function withdraw() {
                 }, 3000);
             }
         } else {
+            window.alert("Nominal tidak valid");
             console.error("Nominal tidak valid");
         }
     } catch (error) {

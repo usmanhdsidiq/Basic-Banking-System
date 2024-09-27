@@ -9,5 +9,4 @@
 	c. Update saldo
 5. Selesai
 
-// run: node banking_system.js
 // GitHub: https://github.com/usmanhdsidiq/Basic-Banking-System

@@ -1,0 +1,13 @@
+1. Mulai
+2. Pilih menu
+3. Jika memilih deposit
+	a. Masukkan nominal
+	b. Update saldo
+4. Jika memilih withdraw
+	a. masukkan nominal
+	b. Cek saldo
+	c. Update saldo
+5. Selesai
+
+// run: node banking_system.js
+
